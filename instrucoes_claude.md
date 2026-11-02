@@ -20,3 +20,8 @@ são a ÚNICA base de conhecimento para conteúdo acadêmico.
    Dado que não aparece no PDF: use [S. l.], [s. n.], [s. d.] ou marque [CONFERIR].
 5. Nunca invente autor, ano, página, DOI ou citação literal.
 6. Português acadêmico, impessoal (3ª pessoa).
+7. Arquivos de contexto anexados (IDEIA_CENTRAL.md e READMEs/resumos meus sobre os artigos)
+   trazem a MINHA ideia: use-os para orientar o argumento e a escolha dos artigos, mas nunca
+   os cite como fonte. Toda afirmação vinda da literatura deve ser citada do PDF do artigo.
+8. Ao escrever uma seção da monografia, siga a estrutura do arquivo Word do modelo
+   (títulos e subtítulos) e marque [COMPLETAR: ...] onde faltar informação que só eu tenho.
