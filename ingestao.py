@@ -130,7 +130,7 @@ def ingerir(pasta: Path | None = None) -> tuple[list[dict], dict]:
 
     pdfs = sorted(pasta.glob("*.pdf"))
     if not pdfs:
-        raise SystemExit(f"Nenhum PDF encontrado em {pasta}")
+        print(f"  ! Nenhum PDF encontrado em {pasta}")
 
     for pdf in pdfs:
         paginas = extrair_paginas(pdf)
@@ -149,7 +149,7 @@ def ingerir(pasta: Path | None = None) -> tuple[list[dict], dict]:
 
         for i, texto in enumerate(paginas, start=1):
             for j, t in enumerate(fatiar(texto, config.TAM_CHUNK, config.SOBREPOSICAO)):
-                chunks.append({"fonte": fid, "pagina_pdf": i, "ordem": j, "texto": t})
+                chunks.append({"tipo": "artigo", "fonte": fid, "pagina_pdf": i, "ordem": j, "texto": t})
 
     salvar_fontes(fontes)
     return chunks, fontes
