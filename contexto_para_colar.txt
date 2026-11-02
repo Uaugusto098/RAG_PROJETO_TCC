@@ -1,0 +1,163 @@
+Você é o assistente de pesquisa de um Trabalho de Conclusão de Curso (TCC).
+Responda SOMENTE com base nos trechos de artigos fornecidos em <trechos>.
+
+Regras obrigatórias:
+1. Toda afirmação tirada dos trechos termina com a citação ABNT exatamente como
+   aparece no campo "citação" do trecho usado, ex.: (Silva, 2020, p. 47).
+   Nunca invente autor, ano ou página. Várias fontes juntas: (Silva, 2020, p. 4; Souza, 2019, p. 7).
+2. Citação direta curta (até 3 linhas) vai entre aspas duplas no corpo do texto, copiada
+   literalmente do trecho, seguida da citação com página. Citação direta com mais de 3 linhas
+   vai em parágrafo próprio, recuado (use "> " no início), sem aspas.
+3. Prefira paráfrase (citação indireta) e escreva em português acadêmico, impessoal.
+4. Se os trechos não bastarem para responder, diga claramente o que não foi encontrado
+   nos artigos. Não complete com conhecimento próprio sem avisar; se usar, marque o
+   parágrafo com [conhecimento geral – sem fonte nos artigos].
+5. Não escreva a lista de referências: ela é gerada automaticamente depois da resposta.
+
+<trechos>
+<trecho id="T1" fonte="almeida2021" arquivo="Artigo+4+-+FESV+p.+65-89.pdf" pagina_pdf="4">
+citação: (Almeida, 2021, p. 4)
+título: ISSN on-line: 2237-2113
+m UX Design e; d) estudar as ferramentas e técnicas mais 
+importantes para se projetar uma interface mobile. A internet está cada vez mais inserida na rotina de quem trabalha no mercado 
+publicitário. Se antes ela era uma mídia que trazia desconfiança aos anunciantes, 
+atualmente a internet é uma importante ferramenta que possibilita aos publicitários 
+atingir o público-alvo de maneira eficiente e segura. Considerando esse cenário, a 
+área do design denominada UX vem se destacando e ganhando espaço por projetar 
+ambientes digitais com foco na interação e satisfação do usuário, permitindo que ele 
+tenha acesso às informações – e/ou aos produtos – que deseja e explorando as 
+suas conexões emocionais com a marca. O artigo busca contribuir com o desenvolvimento de novos especialistas da 
+área, e a tornar mais eficaz a conquista dos clientes através da concepção de um 
+design intuitivo e de uma boa usabilidade. No que diz respeito à relevância social, o 
+artigo busca enfatizar a necessidade de o meio digital contar com profissionais 
+qualificados 
+que 
+considerem 
+a 
+experiência 
+do 
+usuário 
+final 
+durante 
+o 
+desenvolvimento de ambientes digitais.
+</trecho>
+
+<trecho id="T2" fonte="almeida2021" arquivo="Artigo+4+-+FESV+p.+65-89.pdf" pagina_pdf="20">
+citação: (Almeida, 2021, p. 20)
+título: ISSN on-line: 2237-2113
+mostrem as dúvidas frequentes e 
+as opiniões dos usuários, assim como foi feito nos sites analisados. Outra constatação relevante é a aprovação, pelos pesquisados, da 
+apresentação gráfica dos sites. Se “uma imagem vale mais que mil palavras”4, nos 
+sites estudados o uso de cores e linhas finas foi adotado de forma a traduzir a 
+sensação de que ambos são amigáveis, conforme concluíram os pesquisados. O UX 
+Design empregado nos sites busca sugerir a leveza que uma viagem deve transmitir 
+– já que os sites são de empresas que comercializam pacotes de viagem – e 
+procura dar ao usuário a sensação de tranquilidade desde o momento da compra. Ou seja, a intenção é a de que essa experiência faça parte do pacote cujo conteúdo 
+principal é a viagem adquirida. A julgar pelos resultados da pesquisa, essas 
+sensação e experiência parecem ter sido vividas pelos pesquisados que acharam os 
+sites amigáveis e consideraram as informações disponíveis como de fácil acesso.
+</trecho>
+
+<trecho id="T3" fonte="almeida2021" arquivo="Artigo+4+-+FESV+p.+65-89.pdf" pagina_pdf="1">
+citação: (Almeida, 2021, p. 1)
+título: ISSN on-line: 2237-2113
+ISSN on-line: 2237-2113 
+ http://periodicos.estacio.br/index.php/destarte 
+ DESTARTE, v.10, n.2, p. 65-89, nov. 2021. Michaela Dafne da Silva1 
+José Carlos Corrêa2 
+Faculdade Estácio de Vitória – FESV, Brasil  RESUMO 
+Este artigo estuda a aplicação do UX Design – o User Experience Design –, ou seja, o 
+desenvolvimento de interfaces digitais centradas na experiência do usuário, abordando a relevância 
+do UX Design e dos investimentos realizados pelas empresas nesse ramo do design. O objetivo do 
+trabalho é analisar o papel do UX na publicidade digital e a importância das atribuições do profissional 
+que atua nessa função, buscando identificar as precauções que devem ser tomadas no 
+desenvolvimento de interfaces mobile centradas na experiência do usuário. O artigo procura ressaltar 
+a eficácia da concepção de um design intuitivo e de uma boa usabilidade na conquista de clientes, 
+tornando a internet um ambiente cada vez mais interativo e acessível.
+</trecho>
+
+<trecho id="T4" fonte="almeida2021" arquivo="Artigo+4+-+FESV+p.+65-89.pdf" pagina_pdf="4">
+citação: (Almeida, 2021, p. 4)
+título: ISSN on-line: 2237-2113
+artigo busca enfatizar a necessidade de o meio digital contar com profissionais 
+qualificados 
+que 
+considerem 
+a 
+experiência 
+do 
+usuário 
+final 
+durante 
+o 
+desenvolvimento de ambientes digitais. Esse estudo tem o propósito de contribuir 
+para projetar uma internet mais intuitiva, interativa e acessível. O estudo adotou como metodologia o questionamento indutivo que, segundo 
+Ruiz (1996), é um desenvolvimento que vai desde fatores únicos a uma abrangência 
+mais ampla. Segundo Andrade (2003, p. 131), no método indutivo "atravessa-se o 
+caminho contrário ao da dedução, isto é, a cadeia de raciocínio estabelece conexão
+</trecho>
+
+<trecho id="T5" fonte="almeida2021" arquivo="Artigo+4+-+FESV+p.+65-89.pdf" pagina_pdf="24">
+citação: (Almeida, 2021, p. 24)
+título: ISSN on-line: 2237-2113
+M. D. da Silva & J. C. Corrêa  Destarte, v.10, n.2, p. 65-89, nov. 2021. 88
+KOTLER, Philip; ARMSTRONG, Gary. Marketing para o século XXI: como 
+conquistar e dominar mercados. São Paulo: Ediouro, 2009. KOTLER, Philip; KELLER, Kelvin Lane. Administração de marketing. Tradução: 
+Mônica Rosenberg, Brasil Ramos Fernandes e Cláudia Freire. Revisão técnica 
+Dilson Gabriel dos Santos. 12. ed. São Paulo: Pearson Prentice Hall, 2006. KOTLER, Philip. Administração de marketing. 10. Ed. São Paulo: Pearson, 2000. _______. Administração de marketing. 5. Ed. São Paulo: Atlas, 1998. _______. Administração e marketing: a edição do novo milênio. 10. Ed. São 
+Paulo: Prentice Hall, 2000. KRAFT, Christian. User experience innovation: user centered design that works. New York: Springer Verlag, 2011. LAKATOS, Eva Maria; MARCONI, Marina de Andrade. Técnicas de pesquisa: 
+planejamento e execução de pesquisa, amostragens e técnicas de pesquisa, 
+elaboração, análise e interpelação de dados. São Paulo: Atlas, 1999. LARUCCIA, Mauro Maia. O modelo do processo de comunicação. 1999. Disponível em: <http://www.maurolaruccia.adm.br/artigos/com.pdf>. Acesso em: 29 
+out. 2020. LUPETTI, Marcélia.
+</trecho>
+
+<trecho id="T6" fonte="almeida2021" arquivo="Artigo+4+-+FESV+p.+65-89.pdf" pagina_pdf="19">
+citação: (Almeida, 2021, p. 19)
+título: ISSN on-line: 2237-2113
+UX Design: o desenvolvimento de interfaces digitais centradas na experiência do usuário  Destarte, v.10, n.2, p. 65-89, nov. 2021. 83
+perguntas recorrentes e dúvidas levantadas pelos usuários, o que lhes permitiu 
+projetar uma identificação em ambas as situações. Dessa forma, o usuário teve a 
+oportunidade de se informar um pouco mais sobre os serviços oferecidos e o grau 
+de satisfação dos clientes para com eles. Outro ponto abordado na pesquisa foi a apresentação gráfica dos sites. Ambos os sites possuem o azul como cor predominante. No site da Decolar é 
+possível visualizar a proposta do logotipo mais simples o que o aproxima da 
+tendência de outras grandes marcas; já o logotipo da MaxMilhas sugere movimento 
+e suavidade. Nos dois sites é evidente o emprego de linhas finas, até mesmo no 
+traço dos ícones e desenhos dispostos nas páginas. No rolar da primeira página o 
+usuário também encontra abas com fotos dos produtos, pacotes de viagens mais 
+comprados ou promoções. Das quinze pessoas pesquisadas, quatorze – quase a unanimidade – 
+concordaram que o site MaxMilhas tem uma apresentação gráfica amigável.
+</trecho>
+
+<trecho id="T7" fonte="almeida2021" arquivo="Artigo+4+-+FESV+p.+65-89.pdf" pagina_pdf="3">
+citação: (Almeida, 2021, p. 3)
+título: ISSN on-line: 2237-2113
+poucas pessoas. Os conteúdos 
+disponíveis na internet eram poucos e praticamente não existia interação entre a 
+marca e o usuário. Esse cenário mudou, principalmente com o advento das redes 
+sociais. Atualmente, a interação entre a marca e o público-alvo se tornou 
+imprescindível nas estratégias de marketing digital, desafiando os especialistas a 
+desenvolver plataformas cada vez mais intuitivas que analisem, desde o início do 
+processo de sua elaboração, a experiência que o usuário terá durante o contato com 
+a marca. Diante deste contexto, o presente artigo procura relacionar os temas
+</trecho>
+
+<trecho id="T8" fonte="almeida2021" arquivo="Artigo+4+-+FESV+p.+65-89.pdf" pagina_pdf="24">
+citação: (Almeida, 2021, p. 24)
+título: ISSN on-line: 2237-2113
+São Paulo: Atlas, 1999. LARUCCIA, Mauro Maia. O modelo do processo de comunicação. 1999. Disponível em: <http://www.maurolaruccia.adm.br/artigos/com.pdf>. Acesso em: 29 
+out. 2020. LUPETTI, Marcélia. Gestão estratégica da comunicação mercadológica. São 
+Paulo: Thomson Leaning, 2007. MACDONALD, Nico. What is web design. East Sussex: RotoVision, 2003. MARTINO, Luiz C.; HOHLFELDT, Antonio; FRANÇA, Vera (org). Teorias da 
+comunicação: conceitos, escolas e tendências. Ed. Petrópolis, RJ: Vozes, 2001. MCLUHAN, Marshall. Os meios de comunicação como extensão do homem. 20. Ed. São Paulo: Cultrix, 2011. MELO, José Marques de. Comunicação social: teoria e pesquisa. Rio de Janeiro: 
+Vozes, 1970. MEMÓRIA, Felipe. Design para a internet: projetando a experiência perfeita. Rio de 
+Janeiro: Elsevier, 2005. RADFAHRER, Luli. Design/web/design: 2. 2008. Disponível em: 
+<http://www.luli.com.br/dwd2>. Acesso em: 6 out. 2019. RICHERS, Raimar. Marketing. São Paulo: Negócio, 2000. SANT’ANNA, Armando. Propaganda: teoria, técnica e prática. 7. Ed. São Paulo: 
+Pioneira, 1998.
+</trecho>
+</trechos>
+
+Referências ABNT das fontes acima (use ao final, só as citadas):
+
+ALMEIDA, Luciane Infantini da Rosa. ISSN on-line: 2237-2113. [S. l.], 2021.
+
+Pergunta:  Quero que voce resuma completo esse artigo com os pontos mais importantes, mas sem pender para um resumo mt pequeno, quero um resumo que eu realmente consiga absorver todo o artigo sem ter que le-lo linha por linha
